@@ -50,7 +50,7 @@ The platform provides features such as:
 ### Prerequisites  
 - Python 3.8 or higher  
 - pip package manager  
-- Node.js (optional, for frontend dependency management)
+  
 
 ### Installation
 
